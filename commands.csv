@@ -1,0 +1,15 @@
+hey or hello,To get bot introduction
+show commands,To get information about all commands
+list files,To get list of all files in Root directory
+list files recursively,To get list of all files in Root directory as well as child directories
+organisefiles,To organise files in different folders based on their filetype
+send file path=/path_to_file,To get a file from desired path
+run 8081,To get online on localhost:8081
+tree,To display a tree-like diagram of Root directory
+file status path=/path_to_file,To display detailed information about the file
+convert jpg to pdf,To convert all .jpg file in Root folder (we can also convert png/ppt etc)
+remove pdf files,To delete all pdf file from Root folder( it also work for any extension)
+organise dir path=/path_to_any_directory,To organise files in mentioned path_to_any_directory
+show history,To get a list of all previously sent commands/messages
+turn off,To shutdown laptop/pc
+show calendar month=10 year=2023, To display a calendar of mentioned month
