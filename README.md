@@ -32,3 +32,6 @@ To shutdown laptop/pc
 15. show calendar month=10 year=2023:
 To display a calendar of mentioned month
 
+Here is the screenshot of the project:
+![Screenshot_2024_0310_191850](https://github.com/rahulrawatgujjar/Whatsapp-bot-for-organising-files/assets/95250565/dded7da3-9875-40ef-bd10-475889c6a146)
+
